@@ -1,6 +1,12 @@
 <h1 align="center">Sepehr Bazmi</h1>
 <h3 align="center">Computer Engineering Student and Data Enthusiast.</h3>
 
+## About me :
+- **Computer Engineering** student at **Shahid Bahinar Kerman** University
+- Working on My Software and Data Analysis skills
+- Also Learning **AI** and **ML**
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sepehrbazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sepehrbazmi" height="30" width="40" /></a>
