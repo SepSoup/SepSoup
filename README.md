@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student and Data Enthusiast.</h3>
 
 ## About me :
-- **Computer Engineering** student at **Shahid Bahinar Kerman** University
+- **Computer Engineering** student at **Shahid Bahonar Kerman** University
 - Working on My Software and Data Analysis skills
 - Also Learning **AI** and **ML**
   
